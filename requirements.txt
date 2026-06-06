@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+streamlit
+requests
+pypdf
+python-docx
+chromadb
+sentence-transformers
+python-dotenv
+plotly
+google-generativeai
+matplotlib
+pandas
+openpyxl
+prophet
+langgraph
