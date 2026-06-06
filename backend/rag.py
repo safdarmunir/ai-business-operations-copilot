@@ -6,7 +6,7 @@ from chat_memory import ChatMemory
 
 
 genai.configure(api_key=GEMINI_API_KEY)
-print("GEMINI_API_KEY FOUND:", bool(GEMINI_API_KEY))
+
 
 class RAGPipeline:
     def __init__(self):
