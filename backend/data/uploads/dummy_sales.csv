@@ -1,0 +1,21 @@
+order_id,order_date,customer,region,product,quantity,unit_price,revenue
+ORD001,2026-01-05,Alpha Ltd,North,Laptop,5,800,4000
+ORD002,2026-01-07,Beta Corp,South,Tablet,8,350,2800
+ORD003,2026-01-10,TechZone,East,Monitor,10,220,2200
+ORD004,2026-01-12,Alpha Ltd,West,Keyboard,20,25,500
+ORD005,2026-01-15,Nova Traders,North,Mouse,30,15,450
+ORD006,2026-01-18,Orbit Pvt,South,Laptop,3,800,2400
+ORD007,2026-01-20,Crescent School,East,Printer,4,450,1800
+ORD008,2026-01-22,TechZone,West,Headphones,12,75,900
+ORD009,2026-02-01,Alpha Ltd,North,Laptop,6,800,4800
+ORD010,2026-02-05,Beta Corp,South,Tablet,5,350,1750
+ORD011,2026-02-08,Orbit Pvt,East,Monitor,7,220,1540
+ORD012,2026-02-10,Nova Traders,West,Keyboard,15,25,375
+ORD013,2026-02-15,Crescent School,North,Mouse,40,15,600
+ORD014,2026-02-18,TechZone,South,Laptop,4,800,3200
+ORD015,2026-02-22,Alpha Ltd,East,Printer,3,450,1350
+ORD016,2026-03-01,Beta Corp,West,Headphones,20,75,1500
+ORD017,2026-03-05,Orbit Pvt,North,Laptop,7,800,5600
+ORD018,2026-03-10,Nova Traders,South,Tablet,6,350,2100
+ORD019,2026-03-15,Crescent School,East,Monitor,8,220,1760
+ORD020,2026-03-20,TechZone,West,Laptop,5,800,4000
