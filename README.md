@@ -13,6 +13,8 @@ This project is built as a portfolio-grade AI application, not a single chatbot 
 | Demo recording script | [docs/DEMO_VIDEO.md](docs/DEMO_VIDEO.md) |
 | Screenshots | [assets/screenshots](assets/screenshots) |
 
+![Animated demo preview](assets/demo-preview.gif)
+
 ## What It Does
 
 - Upload business documents: PDF, DOCX, TXT
