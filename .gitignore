@@ -1,4 +1,5 @@
 venv/
+.venv/
 __pycache__/
 *.pyc
 .env
@@ -7,4 +8,9 @@ data/chroma/
 data/charts/
 data/reports/
 data/copilot.db
+backend/data/uploads/
+backend/data/chroma/
+backend/data/charts/
+backend/data/reports/
+backend/data/copilot.db
 .DS_Store
